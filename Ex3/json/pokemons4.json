@@ -1,0 +1,333 @@
+[
+    {
+        "_id": {
+            "$oid": "640d1924ca934d0121b22211"
+        },
+        "id": 46,
+        "num": "046",
+        "name": "Paras",
+        "img": "http://www.serebii.net/pokemongo/pokemon/046.png",
+        "type": [
+            "Bug",
+            "Grass"
+        ],
+        "height": "0.30 m",
+        "weight": "5.4 kg",
+        "candy": "Paras Candy",
+        "candy_count": 50,
+        "egg": "5 km",
+        "spawn_chance": 2.36,
+        "avg_spawns": 236,
+        "spawn_time": "01:42",
+        "multipliers": [
+            2.02
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Rock"
+        ],
+        "next_evolution": [
+            {
+                "num": "047",
+                "name": "Parasect"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "640d1924ca934d0121b22212"
+        },
+        "id": 47,
+        "num": "047",
+        "name": "Parasect",
+        "img": "http://www.serebii.net/pokemongo/pokemon/047.png",
+        "type": [
+            "Bug",
+            "Grass"
+        ],
+        "height": "0.99 m",
+        "weight": "29.5 kg",
+        "candy": "Paras Candy",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0.074,
+        "avg_spawns": 7.4,
+        "spawn_time": "01:22",
+        "multipliers": null,
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Poison",
+            "Flying",
+            "Bug",
+            "Rock"
+        ],
+        "prev_evolution": [
+            {
+                "num": "046",
+                "name": "Paras"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "640d1924ca934d0121b2222d"
+        },
+        "id": 74,
+        "num": "074",
+        "name": "Geodude",
+        "img": "http://www.serebii.net/pokemongo/pokemon/074.png",
+        "type": [
+            "Rock",
+            "Ground"
+        ],
+        "height": "0.41 m",
+        "weight": "20.0 kg",
+        "candy": "Geodude Candy",
+        "candy_count": 25,
+        "egg": "2 km",
+        "spawn_chance": 1.19,
+        "avg_spawns": 119,
+        "spawn_time": "12:40",
+        "multipliers": [
+            1.75,
+            1.76
+        ],
+        "weaknesses": [
+            "Water",
+            "Grass",
+            "Ice",
+            "Fighting",
+            "Ground",
+            "Steel"
+        ],
+        "next_evolution": [
+            {
+                "num": "075",
+                "name": "Graveler"
+            },
+            {
+                "num": "076",
+                "name": "Golem"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "640d1924ca934d0121b2222e"
+        },
+        "id": 75,
+        "num": "075",
+        "name": "Graveler",
+        "img": "http://www.serebii.net/pokemongo/pokemon/075.png",
+        "type": [
+            "Rock",
+            "Ground"
+        ],
+        "height": "0.99 m",
+        "weight": "105.0 kg",
+        "candy": "Geodude Candy",
+        "candy_count": 100,
+        "egg": "Not in Eggs",
+        "spawn_chance": 0.071,
+        "avg_spawns": 7.1,
+        "spawn_time": "04:53",
+        "multipliers": [
+            1.64,
+            1.72
+        ],
+        "weaknesses": [
+            "Water",
+            "Grass",
+            "Ice",
+            "Fighting",
+            "Ground",
+            "Steel"
+        ],
+        "prev_evolution": [
+            {
+                "num": "074",
+                "name": "Geodude"
+            }
+        ],
+        "next_evolution": [
+            {
+                "num": "076",
+                "name": "Golem"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "640d1924ca934d0121b2222f"
+        },
+        "id": 76,
+        "num": "076",
+        "name": "Golem",
+        "img": "http://www.serebii.net/pokemongo/pokemon/076.png",
+        "type": [
+            "Rock",
+            "Ground"
+        ],
+        "height": "1.40 m",
+        "weight": "300.0 kg",
+        "candy": "Geodude Candy",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0.0047,
+        "avg_spawns": 0.47,
+        "spawn_time": "12:16",
+        "multipliers": null,
+        "weaknesses": [
+            "Water",
+            "Grass",
+            "Ice",
+            "Fighting",
+            "Ground",
+            "Steel"
+        ],
+        "prev_evolution": [
+            {
+                "num": "074",
+                "name": "Geodude"
+            },
+            {
+                "num": "075",
+                "name": "Graveler"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "640d1924ca934d0121b22242"
+        },
+        "id": 95,
+        "num": "095",
+        "name": "Onix",
+        "img": "http://www.serebii.net/pokemongo/pokemon/095.png",
+        "type": [
+            "Rock",
+            "Ground"
+        ],
+        "height": "8.79 m",
+        "weight": "210.0 kg",
+        "candy": "None",
+        "egg": "10 km",
+        "spawn_chance": 0.1,
+        "avg_spawns": 10,
+        "spawn_time": "01:18",
+        "multipliers": null,
+        "weaknesses": [
+            "Water",
+            "Grass",
+            "Ice",
+            "Fighting",
+            "Ground",
+            "Steel"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "640d1924ca934d0121b22252"
+        },
+        "id": 111,
+        "num": "111",
+        "name": "Rhyhorn",
+        "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+        "type": [
+            "Ground",
+            "Rock"
+        ],
+        "height": "0.99 m",
+        "weight": "115.0 kg",
+        "candy": "Rhyhorn Candy",
+        "candy_count": 50,
+        "egg": "5 km",
+        "spawn_chance": 0.63,
+        "avg_spawns": 63,
+        "spawn_time": "03:21",
+        "multipliers": [
+            1.91
+        ],
+        "weaknesses": [
+            "Water",
+            "Grass",
+            "Ice",
+            "Fighting",
+            "Ground",
+            "Steel"
+        ],
+        "next_evolution": [
+            {
+                "num": "112",
+                "name": "Rhydon"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "640d1924ca934d0121b22253"
+        },
+        "id": 112,
+        "num": "112",
+        "name": "Rhydon",
+        "img": "http://www.serebii.net/pokemongo/pokemon/112.png",
+        "type": [
+            "Ground",
+            "Rock"
+        ],
+        "height": "1.91 m",
+        "weight": "120.0 kg",
+        "candy": "Rhyhorn Candy",
+        "egg": "Not in Eggs",
+        "spawn_chance": 0.022,
+        "avg_spawns": 2.2,
+        "spawn_time": "05:50",
+        "multipliers": null,
+        "weaknesses": [
+            "Water",
+            "Grass",
+            "Ice",
+            "Fighting",
+            "Ground",
+            "Steel"
+        ],
+        "prev_evolution": [
+            {
+                "num": "111",
+                "name": "Rhyhorn"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "640d1924ca934d0121b2225f"
+        },
+        "id": 124,
+        "num": "124",
+        "name": "Jynx",
+        "img": "http://www.serebii.net/pokemongo/pokemon/124.png",
+        "type": [
+            "Ice",
+            "Psychic"
+        ],
+        "height": "1.40 m",
+        "weight": "40.6 kg",
+        "candy": "None",
+        "egg": "10 km",
+        "spawn_chance": 0.35,
+        "avg_spawns": 35,
+        "spawn_time": "05:41",
+        "multipliers": null,
+        "weaknesses": [
+            "Fire",
+            "Bug",
+            "Rock",
+            "Ghost",
+            "Dark",
+            "Steel"
+        ]
+    }
+]
