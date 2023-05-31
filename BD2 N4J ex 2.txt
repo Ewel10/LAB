@@ -1,0 +1,23 @@
+Agregações:
+
+MATCH(n:Purchase) RETURN SUM(n.amount);
+MATCH(n:Purchase) RETURN AVG(n.amount);
+MATCH(n:Purchase) RETURN COUNT(*);
+MATCH(n:Login) RETURN COUNT(*);
+MATCH(n:UnsecuredLoan) RETURN MIN(n.loanAmount);
+
+Funções matemáticas:
+
+RETURN RAND();
+RETURN SIGN(-1999999), SIGN(0.857964561), SIGN(200000000);
+RETURN CEIL(0.22342354);
+RETURN ROUND(127.3475368465347347);
+RETURN ABS(5 - 7);
+
+Funções de String:
+
+RETURN RIGHT('Os tamanduás comem as formigas na natureza', 3);
+RETURN TOLOWER('TaMaNdUá');
+RETURN TOUPPER('FoRmIgA');
+REPLACE(string, formiga, comida);
+RETURN REVERSE("azerutan an sagimrof sa memoc sáudnamat sO");
